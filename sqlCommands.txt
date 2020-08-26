@@ -86,70 +86,70 @@ INSERT INTO folders (id, name, assigned_privileges)
 
 
 INSERT INTO groups (id, name)
-  VALUES ('gA1','ORG_BIS');
+  VALUES ('gA1','BIS');
 
 INSERT INTO groups (id, name)
-  VALUES ('gA2','ORG_BIS_ADS');
+  VALUES ('gA2','BIS_ADS');
 
 INSERT INTO groups (id, name)
-  VALUES ('gA3','ORG_BIS_ADS_SM');
+  VALUES ('gA3','ADS_SM');
 
 INSERT INTO groups (id, name)
-  VALUES ('gA4','ORG_BIS_ADS_DEV');
+  VALUES ('gA4','ADS_DEV');
 
 INSERT INTO groups (id, name)
-  VALUES ('gA5','ORG_BIS_ADS_SYSADM');
+  VALUES ('gA5','ADS_SYSADM');
 
 INSERT INTO groups (id, name)
-  VALUES ('gA6','ORG_BIS_EXEC');
+  VALUES ('gA6','EXEC');
 
 INSERT INTO groups (id, name)
-  VALUES ('gA7','ORG_BIS_DIV');
+  VALUES ('gA7','ADS_DIV');
 
 INSERT INTO groups (id, name)
-  VALUES ('gA8','ORG_BIS_DM');
+  VALUES ('gA8','DM_MG');
 
 INSERT INTO groups (id, name)
-  VALUES ('gA9','ORG_BIS_PROJ');
+  VALUES ('gA9','PROJ_MG');
 
 INSERT INTO groups (id, name)
-  VALUES ('gA10','MP_PLEBS');
+  VALUES ('gA10','PLEBS');
 
 INSERT INTO groups (id, name)
-  VALUES ('gA11','MP_MANAGEMENT');
+  VALUES ('gA11','MANAGEMENT');
 
 INSERT INTO groups (id, name)
-  VALUES ('gA12','MP_ALL');
+  VALUES ('gA12','ALL');
 
 INSERT INTO groups (id, name)
-  VALUES ('gA13','MP_BUC_ADS');
+  VALUES ('gA13','ADS');
 
 INSERT INTO groups (id, name)
-  VALUES ('gA14','MP_BUC_DM');
+  VALUES ('gA14','DM');
 
 INSERT INTO groups (id, name)
-  VALUES ('gA15','MP_BUC_PROJ');
+  VALUES ('gA15','PROJ');
 
 INSERT INTO groups (id, name)
-  VALUES ('gA16','MP_BUC_ADS');
+  VALUES ('gA16','ADS');
 
 INSERT INTO groups (id, name, date_delete, date_inactivate)
-  VALUES ('gA17','MP_BUC_HELLOWORLD','2016-01-01 10:20:05.123','2016-01-01 10:20:05.123');
+  VALUES ('gA17','HELLOWORLD','2016-01-01 10:20:05.123','2016-01-01 10:20:05.123');
 
 INSERT INTO groups (id, name, date_delete, date_inactivate)
-  VALUES ('gA18','MP_BUC_GROUP1','2016-01-01 10:20:05.123','2016-01-01 10:20:05.123');
+  VALUES ('gA18','GROUP1','2016-01-01 10:20:05.123','2016-01-01 10:20:05.123');
 
 INSERT INTO groups (id, name, date_delete, date_inactivate)
-  VALUES ('gA19','MP_BUC_GROUP2','2016-01-01 10:20:05.123','2016-01-01 10:20:05.123');
+  VALUES ('gA19','GROUP2','2016-01-01 10:20:05.123','2016-01-01 10:20:05.123');
 
 INSERT INTO groups (id, name, date_delete, date_inactivate)
-  VALUES ('gA20','MP_BUC_GROUP3','2016-01-01 10:20:05.123','2016-01-01 10:20:05.123');
+  VALUES ('gA20','GROUP3','2016-01-01 10:20:05.123','2016-01-01 10:20:05.123');
 
 INSERT INTO groups (id, name, date_delete, date_inactivate)
-  VALUES ('gA21','MP_BUC_GROUP4','2016-01-01 10:20:05.123','2016-01-01 10:20:05.123');
+  VALUES ('gA21','GROUP4','2016-01-01 10:20:05.123','2016-01-01 10:20:05.123');
 
 INSERT INTO groups (id, name, date_delete, date_inactivate)
-  VALUES ('gA22','MP_BUC_GROUP5','2016-01-01 10:20:05.123','2016-01-01 10:20:05.123');
+  VALUES ('gA22','GROUP5','2016-01-01 10:20:05.123','2016-01-01 10:20:05.123');
 
 
 
